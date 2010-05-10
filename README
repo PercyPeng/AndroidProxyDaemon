@@ -1,0 +1,7 @@
+This shows how to set proxy in Android.
+
+Like http Proxy,Socket Proxy,etc
+
+There including two methords to set proxy:
+one is set the property of the Dalvik VM.
+The other is new a Proxy() when open the url connection.
